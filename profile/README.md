@@ -1,3 +1,55 @@
+# Sofia Goma : Solutions Technologiques Innovantes à Goma, RDC
+
+## À Propos de Nous
+
+Bienvenue chez Sofia, où la passion rencontre la technologie ! Nous sommes un groupe dévoué de développeurs basés à Goma, en RDC, spécialisés dans la création de solutions innovantes qui répondent aux défis locaux. Notre équipe de 20 experts excelle dans la construction et le déploiement de sites web, d'applications mobiles et d'applications de bureau qui répondent aux besoins uniques de nos clients.
+
+## Notre Mission
+
+Chez Sofia, nous nous engageons à stimuler l'innovation technologique dans notre communauté. Nous exploitons la puissance de la technologie pour résoudre des problèmes concrets, ayant un impact tangible sur la vie de ceux qui nous entourent.
+
+## Ce Que Nous Faisons
+
+### Développement Web
+
+Nous concevons et développons des sites web réactifs et conviviaux qui non seulement ont belle apparence, mais offrent également une expérience utilisateur fluide. Nos sites web sont adaptés pour répondre à vos besoins spécifiques, qu'il s'agisse d'une plateforme e-commerce, d'un site d'entreprise ou d'un blog personnel.
+
+### Applications Mobiles
+
+Notre équipe de développement d'applications mobiles crée des applications intuitives et engageantes pour les plateformes Android et iOS. Nous veillons à ce que votre application soit non seulement fonctionnelle, mais offre également une expérience utilisateur exceptionnelle.
+
+### Applications de Bureau
+
+Nous construisons des applications de bureau puissantes et efficaces qui aident à rationaliser vos processus d'entreprise. Nos solutions de bureau sont conçues pour améliorer la productivité et sont personnalisées pour répondre aux exigences de votre organisation.
+
+## Notre Approche
+
+1. **Centrée sur le Client** : Nous plaçons nos clients au cœur de tout ce que nous faisons. En comprenant vos besoins et vos objectifs, nous adaptons nos solutions pour qu'elles répondent à vos attentes et vous aident à réussir.
+
+2. **Solutions de Bout en Bout** : Du concept initial au déploiement et à la maintenance, nous fournissons des solutions complètes de bout en bout. Notre équipe s'assure que chaque projet est livré dans les délais, dans le budget et selon les normes de qualité les plus élevées.
+
+3. **Axée sur la Communauté** : Étant basés à Goma, en RDC, nous sommes profondément connectés à notre communauté. Nous nous efforçons d'exploiter la technologie pour résoudre les problèmes locaux et conduire un changement positif dans notre région.
+
+## Notre Travail
+
+Voici quelques-uns des projets que nous avons réalisés :
+
+- **Plateforme E-commerce** : Une boutique en ligne robuste pour un détaillant local, avec une intégration de paiement sécurisée et une interface conviviale.
+- **Application de Santé** : Une application mobile qui aide les patients à prendre rendez-vous et à accéder facilement à leurs dossiers médicaux.
+- **Logiciel de Gestion d'Entreprise** : Une application de bureau qui rationalise les opérations d'une entreprise locale, améliorant l'efficacité et la productivité.
+
+## Contactez-Nous
+
+Vous cherchez un partenaire technologique pour donner vie à vos idées ? Contactez-nous !
+
+- Email : sofia@gmail.com
+- Téléphone : +243 971 616 131
+- Adresse : Ndosho, Goma, RDC
+
+Suivez-nous sur [Twitter](https://twitter.com/SofiaGomaDRC) et [LinkedIn](https://www.linkedin.com/company/sofia-goma-drc) pour rester informé de nos derniers projets et innovations.
+
+---
+
 # [EN]
 
 # Sofia Goma: Innovative Technology Solutions in Goma, DRC
@@ -50,56 +102,4 @@ Are you looking for a technology partner to bring your ideas to life? Get in tou
 
 Follow us on [Twitter](https://twitter.com/SofiaGomaDRC) and [LinkedIn](https://www.linkedin.com/company/sofia-goma-drc) to stay updated on our latest projects and innovations.
 
----
 
-# [FR]
-
-# Sofia Goma : Solutions Technologiques Innovantes à Goma, RDC
-
-## À Propos de Nous
-
-Bienvenue chez Sofia, où la passion rencontre la technologie ! Nous sommes un groupe dévoué de développeurs basés à Goma, en RDC, spécialisés dans la création de solutions innovantes qui répondent aux défis locaux. Notre équipe de 20 experts excelle dans la construction et le déploiement de sites web, d'applications mobiles et d'applications de bureau qui répondent aux besoins uniques de nos clients.
-
-## Notre Mission
-
-Chez Sofia, nous nous engageons à stimuler l'innovation technologique dans notre communauté. Nous exploitons la puissance de la technologie pour résoudre des problèmes concrets, ayant un impact tangible sur la vie de ceux qui nous entourent.
-
-## Ce Que Nous Faisons
-
-### Développement Web
-
-Nous concevons et développons des sites web réactifs et conviviaux qui non seulement ont belle apparence, mais offrent également une expérience utilisateur fluide. Nos sites web sont adaptés pour répondre à vos besoins spécifiques, qu'il s'agisse d'une plateforme e-commerce, d'un site d'entreprise ou d'un blog personnel.
-
-### Applications Mobiles
-
-Notre équipe de développement d'applications mobiles crée des applications intuitives et engageantes pour les plateformes Android et iOS. Nous veillons à ce que votre application soit non seulement fonctionnelle, mais offre également une expérience utilisateur exceptionnelle.
-
-### Applications de Bureau
-
-Nous construisons des applications de bureau puissantes et efficaces qui aident à rationaliser vos processus d'entreprise. Nos solutions de bureau sont conçues pour améliorer la productivité et sont personnalisées pour répondre aux exigences de votre organisation.
-
-## Notre Approche
-
-1. **Centrée sur le Client** : Nous plaçons nos clients au cœur de tout ce que nous faisons. En comprenant vos besoins et vos objectifs, nous adaptons nos solutions pour qu'elles répondent à vos attentes et vous aident à réussir.
-
-2. **Solutions de Bout en Bout** : Du concept initial au déploiement et à la maintenance, nous fournissons des solutions complètes de bout en bout. Notre équipe s'assure que chaque projet est livré dans les délais, dans le budget et selon les normes de qualité les plus élevées.
-
-3. **Axée sur la Communauté** : Étant basés à Goma, en RDC, nous sommes profondément connectés à notre communauté. Nous nous efforçons d'exploiter la technologie pour résoudre les problèmes locaux et conduire un changement positif dans notre région.
-
-## Notre Travail
-
-Voici quelques-uns des projets que nous avons réalisés :
-
-- **Plateforme E-commerce** : Une boutique en ligne robuste pour un détaillant local, avec une intégration de paiement sécurisée et une interface conviviale.
-- **Application de Santé** : Une application mobile qui aide les patients à prendre rendez-vous et à accéder facilement à leurs dossiers médicaux.
-- **Logiciel de Gestion d'Entreprise** : Une application de bureau qui rationalise les opérations d'une entreprise locale, améliorant l'efficacité et la productivité.
-
-## Contactez-Nous
-
-Vous cherchez un partenaire technologique pour donner vie à vos idées ? Contactez-nous !
-
-- Email : sofia@gmail.com
-- Téléphone : +243 971 616 131
-- Adresse : Ndosho, Goma, RDC
-
-Suivez-nous sur [Twitter](https://twitter.com/SofiaGomaDRC) et [LinkedIn](https://www.linkedin.com/company/sofia-goma-drc) pour rester informé de nos derniers projets et innovations.
