@@ -1,12 +1,12 @@
-# Sofia Goma : Solutions Technologiques Innovantes à Goma, RDC
+# SOFIA Tech : Solutions Technologiques Innovantes à Goma, RDC
 
 ## À Propos de Nous
 
-Bienvenue chez Sofia, où la passion rencontre la technologie ! Nous sommes un groupe dévoué de développeurs basés à Goma, en RDC, spécialisés dans la création de solutions innovantes qui répondent aux défis locaux. Notre équipe de 20 experts excelle dans la construction et le déploiement de sites web, d'applications mobiles et d'applications de bureau qui répondent aux besoins uniques de nos clients.
+Bienvenue chez SOFIA Tech, où la passion rencontre la technologie ! Nous sommes un groupe dévoué de développeurs basés à Goma, en RDC, spécialisés dans la création de solutions innovantes qui répondent aux défis locaux. Notre équipe de 20 experts excelle dans la construction et le déploiement de sites web, d'applications mobiles et d'applications de bureau qui répondent aux besoins uniques de nos clients.
 
 ## Notre Mission
 
-Chez Sofia, nous nous engageons à stimuler l'innovation technologique dans notre communauté. Nous exploitons la puissance de la technologie pour résoudre des problèmes concrets, ayant un impact tangible sur la vie de ceux qui nous entourent.
+Chez SOFIA Tech, nous nous engageons à stimuler l'innovation technologique dans notre communauté. Nous exploitons la puissance de la technologie pour résoudre des problèmes concrets, ayant un impact tangible sur la vie de ceux qui nous entourent.
 
 ## Ce Que Nous Faisons
 
@@ -42,7 +42,7 @@ Voici quelques-uns des projets que nous avons réalisés :
 
 Vous cherchez un partenaire technologique pour donner vie à vos idées ? Contactez-nous !
 
-- Email : sofia@gmail.com
+- Email : sofiatech2025@gmail.com
 - Téléphone : +243 971 616 131
 - Adresse : Ndosho, Goma, RDC
 
@@ -52,15 +52,15 @@ Suivez-nous sur [Twitter](https://twitter.com/SofiaGomaDRC) et [LinkedIn](https:
 
 # [EN]
 
-# Sofia Goma: Innovative Technology Solutions in Goma, DRC
+# SOFIA Tech: Innovative Technology Solutions in Goma, DRC
 
 ## About Us
 
-Welcome to Sofia, where passion meets technology! We are a dedicated group of developers based in Goma, DRC, specializing in creating innovative solutions that address local challenges. Our team of 20 experts excels in building and deploying websites, mobile applications, and desktop applications that cater to our customers' unique needs.
+Welcome to SOFIA Tech, where passion meets technology! We are a dedicated group of developers based in Goma, DRC, specializing in creating innovative solutions that address local challenges. Our team of 20 experts excels in building and deploying websites, mobile applications, and desktop applications that cater to our customers' unique needs.
 
 ## Our Mission
 
-At Sofia, we are committed to driving technological innovation in our community. We leverage the power of technology to solve real-world problems, making a tangible impact on the lives of those around us.
+At SOFIA Tech, we are committed to driving technological innovation in our community. We leverage the power of technology to solve real-world problems, making a tangible impact on the lives of those around us.
 
 ## What We Do
 
@@ -96,7 +96,7 @@ Here are some of the projects we have delivered:
 
 Are you looking for a technology partner to bring your ideas to life? Get in touch with us!
 
-- Email: sofia@gmail.com
+- Email: sofiatech@gmail.com
 - Phone: +243 971 616 131
 - Address: Ndosho, Goma, DRC
 
