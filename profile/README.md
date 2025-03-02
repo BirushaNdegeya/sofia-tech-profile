@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/organizations/sofiatechnology/">
-    <img alt="SOFIA Tech logo" height="128" src="./assets/images/sofia-tech-logo.png">
+    <img alt="SOFIA Tech logo" height="128" src="../media/sofia-tech.png">
     <h1 align="center">SOFIA Tech</h1>
   </a>
 </p>
